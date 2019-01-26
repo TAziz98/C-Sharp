@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ProgramApp\ProgramApp.test\bin\Debug\netcoreapp2.1\ProgramApp.test.deps.json
+C:\Users\User\source\repos\ProgramApp\ProgramApp.test\bin\Debug\netcoreapp2.1\ProgramApp.test.dll
+C:\Users\User\source\repos\ProgramApp\ProgramApp.test\obj\Debug\netcoreapp2.1\ProgramApp.test.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProgramApp\ProgramApp.test\obj\Debug\netcoreapp2.1\ProgramApp.test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProgramApp\ProgramApp.test\obj\Debug\netcoreapp2.1\ProgramApp.test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProgramApp\ProgramApp.test\obj\Debug\netcoreapp2.1\ProgramApp.test.AssemblyInfo.cs
